@@ -2,8 +2,8 @@
 **Level Beginner, Prediction Using Supervised Machine Learning**
 
 **Sunil Singh**<br>
-*Data Science & Business Analytics*<br> 
-*Intern The Spark Foundation*
+*Data Science & Business Analytics Intern*<br> 
+*The Spark Foundation*
 
 ### This Notebook is Hosted on Kaggle Please Follow the given Link to Run the Notebook 
 
