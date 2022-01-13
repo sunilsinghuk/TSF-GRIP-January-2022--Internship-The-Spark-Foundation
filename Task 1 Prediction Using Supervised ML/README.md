@@ -7,6 +7,6 @@
 
 ### This Notebook is Hosted on Kaggle Please Follow the given Link to Run the Notebook 
 
-[Task-1 Prediction Using Supervised Machine Learning](https://www.kaggle.com/sunilsinghuk/prediction-using-supervised-ml)
+[Task-1 Percentage Based on No of Study Hours](https://www.kaggle.com/sunilsinghuk/prediction-using-supervised-ml)
 (https://www.kaggle.com/sunilsinghuk/prediction-using-supervised-ml)
 
