@@ -1,5 +1,5 @@
 # Task 2 : PREDICT OPTIMUM NUMBER OF CLUSTERS USING IRIS DATA.
-## Level Beginner, Prediction Using Un-Supervised Machine Learning
+## Level Beginner, Prediction Using UnSupervised Machine Learning
 
 ## Sunil Singh
 **Data Science & Business Analytics Intern**
